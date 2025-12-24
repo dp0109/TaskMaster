@@ -54,6 +54,21 @@ Whether you need to track daily to-dos, manage work projects, or analyze your pr
 * Modern glassmorphism aesthetic using Tailwind CSS
 
 ---
+GUI
+--
+<img width="1911" height="990" alt="Screenshot 2025-12-24 191859" src="https://github.com/user-attachments/assets/455d737c-258f-4351-a7a2-4375fe0afcef" />
+--
+<img width="1446" height="941" alt="Screenshot 2025-12-24 192022" src="https://github.com/user-attachments/assets/6611d03f-65c5-42ab-a96e-519ad4daeb88" />
+--
+<img width="1638" height="986" alt="Screenshot 2025-12-24 192007" src="https://github.com/user-attachments/assets/91e46289-0d87-49fa-abbd-f0a4e8342e3b" />
+--
+<img width="1497" height="972" alt="Screenshot 2025-12-24 192037" src="https://github.com/user-attachments/assets/258b5047-68f0-44f9-83d5-8ea570f2b361" />
+--
+<img width="1475" height="894" alt="Screenshot 2025-12-24 192053" src="https://github.com/user-attachments/assets/c6b5c705-9b53-461a-8f69-5b5367080808" />
+--
+<img width="1471" height="882" alt="Screenshot 2025-12-24 192127" src="https://github.com/user-attachments/assets/7cc06323-1f2d-4d62-b42a-cb441f22b870" />
+--
+---
 
 ## Technology Stack
 
